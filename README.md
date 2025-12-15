@@ -57,6 +57,11 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=DD0031&center=true&vCenter=true&width=650&lines=Featured+Projects;Angular+Applications;Full-Stack+Projects;Real-World+Implementations" />
+</p>
+
+
 ## 🚀 Projects (Angular-Focused)
 
 ### 🌐 Prath-Tech Website
