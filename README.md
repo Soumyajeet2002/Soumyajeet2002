@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Soumyajeet Nayak
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=DD0031&center=true&vCenter=true&width=650&lines=Full-Stack+Developer:Angular+Developer;Full-Stack+Web+Developer;Building+Scalable+Web+Apps;Consistent+Daily+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=DD0031&center=true&vCenter=true&width=650&lines=Full-Stack+ Web+Developer;Angular+Developer;Python+Developer;Backend+Developer;Building+Scalable+Web+Apps;Consistent+Daily+Learner" />
 </p>
 
 <p align="center">
