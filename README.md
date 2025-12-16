@@ -76,6 +76,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Soumyajeet2002&show_icons=true&count_private=true&theme=radical" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Soumyajeet2002&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
+
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Soumyajeet2002&theme=radical" />
 </p>
