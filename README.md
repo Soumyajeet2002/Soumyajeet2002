@@ -74,8 +74,8 @@
 ## 📊 GitHub Activity
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Soumyajeet2002&show_icons=true&count_private=true&theme=radical" /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumyajeet2002&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Soumyajeet2002&show_icons=true&theme=radical" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Soumyajeet2002&show_icons=true&count_private=true&include_all_commits=true&theme=radical" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Soumyajeet2002&show_icons=true&theme=radical" /> -->
   <img src="https://metrics.lecoq.io/Soumyajeet2002?template=classic&base=commits&base.indepth=true&config.timezone=Asia/Kolkata" />
 
 
