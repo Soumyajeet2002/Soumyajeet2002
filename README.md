@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Soumyajeet Nayak
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Front-End+Developer;Machine+Learning+Developer;Angular+Specialist;Building+Intelligent+Web+Applications;2026+Career+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Front-End+Developer;Machine+Learning+Developer;Angular+Specialist;Building+Intelligent+Web+Apps;2026+Career+Focused" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ I’m a **Front-End Developer & Aspiring Machine Learning Engineer** focused on 
 - 🤖 Transitioning into **Machine Learning & AI Development**
 - 🔗 Experience integrating **REST APIs & backend services**
 - 🧠 Clean code, scalability & performance-driven mindset
-- 🔁 Consistent learner preparing for **2026 ML + Frontend roles**
+- 🔁 Consistent learner preparing for **2026 ML + Full-Stack roles**
 
 ---
 
@@ -38,13 +38,13 @@ I’m a **Front-End Developer & Aspiring Machine Learning Engineer** focused on 
 - Scikit-learn (Regression & Classification)
 - Data preprocessing & feature engineering
 - Model evaluation & optimization
-- ML model integration with web applications *(in progress)*
+- ML model integration with web apps *(in progress)*
 
 ---
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,python,java,mongodb,mysql,html,css,git,github,wordpress" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,python,nodejs,express,mongodb,mysql,html,css,git,github" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ I’m a **Front-End Developer & Aspiring Machine Learning Engineer** focused on 
 ### 🌐 Angular Projects
 - **Prath-Tech Website** — Corporate Angular website
 - **STL Website** — Responsive Angular-based business site
-- **CMS (Content Management System)** — Modular Angular CMS with reusable components
+- **CMS (Content Management System)** — Modular Angular CMS
 
 | Project | Preview |
 |-------|--------|
@@ -64,25 +64,88 @@ I’m a **Front-End Developer & Aspiring Machine Learning Engineer** focused on 
 
 ---
 
-### 🧠 Machine Learning & Backend Projects
+### 🧠 ML & Backend Projects
 - **Python Learning & ML Experiments**
-  - Data analysis & visualization
-  - ML algorithms implementation
-- **SMS – Society Management Service**
-  - TypeScript | Backend APIs | Business Logic
-- **Backend Project**
-  - JavaScript | REST API Development
+- **SMS – Society Management Service** *(TypeScript, APIs)*
+- **Backend Project** *(JavaScript, REST APIs)*
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Activity (FIXED ✅)
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyajeet2002&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soumyajeet2002&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyajeet2002&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Soumyajeet2002&theme=radical&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyajeet2002&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🛣️ 2026 Roadmap – Machine Learning Developer 🤖
+
+### 🔹 Foundations
+- Python (Advanced)
+- Statistics & Probability
+- Linear Algebra (ML-focused)
+
+### 🔹 Core ML
+- Supervised & Unsupervised Learning
+- Regression, Classification, Clustering
+- Feature Engineering
+- Model Evaluation
+
+### 🔹 Tools & Libraries
+- NumPy, Pandas
+- Matplotlib, Seaborn
+- Scikit-learn
+
+### 🔹 Advanced (Planned)
+- Deep Learning basics
+- Neural Networks
+- Model deployment with APIs
+- ML + Frontend integration
+
+### 🔹 Projects Goal
+- End-to-end ML projects
+- ML-powered web applications
+- Real-world datasets
+
+---
+
+## 🛣️ 2026 Roadmap – Full-Stack MEAN Developer 🅰️
+
+### 🔹 Front-End
+- Advanced Angular
+- RxJS & State Management
+- UI Performance Optimization
+- Reusable Component Libraries
+
+### 🔹 Backend
+- Node.js & Express.js
+- REST API design
+- Authentication & Authorization
+- Error handling & validation
+
+### 🔹 Database
+- MongoDB (Schema design)
+- Mongoose
+- MySQL (Basics)
+
+### 🔹 DevOps & Tools
+- Git & GitHub workflows
+- Environment configuration
+- Deployment basics
+
+### 🔹 Projects Goal
+- Enterprise-level MEAN apps
+- Scalable backend systems
+- Full-stack production-ready projects
 
 ---
 
@@ -94,18 +157,18 @@ I’m a **Front-End Developer & Aspiring Machine Learning Engineer** focused on 
 ---
 
 ## 🎯 2026 Career Goals
-- 🤖 Become an **industry-ready Machine Learning Developer**
-- 🅰️ Build **AI-powered Front-End applications**
-- 🔗 Deploy ML models & integrate with web apps
-- 🌍 Contribute to **open-source ML & Web projects**
-- 📈 Strengthen ML fundamentals, DSA & system design
+- 🤖 Become an **industry-ready ML Developer**
+- 🅰️ Excel as a **Full-Stack MEAN Developer**
+- 🔗 Build **AI-powered web applications**
+- 🌍 Contribute to open-source projects
+- 📈 Strengthen DSA, ML & system design
 
 ---
 
 ## 📫 Connect With Me
-- 💼 **LinkedIn:** https://www.linkedin.com/
-- 🌐 **Portfolio:** https://your-portfolio-link.com
-- ✉️ **Email:** your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/
+- 🌐 Portfolio: https://your-portfolio-link.com
+- ✉️ Email: your-email@example.com
 
 <p align="center">
   🚀 <strong>Build • Learn • Apply • Evolve</strong>
