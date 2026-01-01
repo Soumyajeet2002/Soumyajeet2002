@@ -86,6 +86,14 @@ I’m a **Front-End Developer & Aspiring Machine Learning Engineer** focused on 
 </p>
 
 ---
+- 🔥 Active contributor with consistent commits
+- 🧠 Focused on Angular, ML & Full-Stack development
+- 🚀 Building production-grade projects
+- 📈 Growing open-source presence
+
+➡️ View full activity on my profile:  
+https://github.com/Soumyajeet2002
+---
 
 ## 🛣️ 2026 Roadmap – Machine Learning Developer 🤖
 
