@@ -1,33 +1,44 @@
 # 👋 Hi, I'm Soumyajeet Nayak
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=620&lines=Angular+Developer;Full-Stack+Web+Developer;Building+Scalable+Web+Apps;Consistent+Daily+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Front-End+Developer;Machine+Learning+Developer;Angular+Specialist;Building+Intelligent+Web+Applications;2026+Career+Focused" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Soumyajeet2002&label=Profile%20Views&color=38BDF8&style=flat" />
 </p>
 
-🚀 **Angular-Focused Full-Stack Developer**  
-💻 Angular • TypeScript • JavaScript • Python • SQL • MongoDB
+---
+
+## 🚀 About Me
+I’m a **Front-End Developer & Aspiring Machine Learning Engineer** focused on building  
+**intelligent, scalable, and user-centric web applications**.
+
+- 🅰️ Strong expertise in **Angular & Front-End Architecture**
+- 🤖 Transitioning into **Machine Learning & AI Development**
+- 🔗 Experience integrating **REST APIs & backend services**
+- 🧠 Clean code, scalability & performance-driven mindset
+- 🔁 Consistent learner preparing for **2026 ML + Frontend roles**
 
 ---
 
-## 👨‍💻 About Me
-- Angular developer with strong frontend architecture skills  
-- Building real-world Angular applications  
-- Backend & REST API integration experience  
-- Clean code, scalability & best practices  
-- Consistent daily GitHub contributor  
+## ⚡ Front-End Expertise
+- Angular (Components, Modules & Lifecycle Hooks)
+- Routing, Guards & Lazy Loading
+- Services & Dependency Injection
+- Reactive & Template-Driven Forms
+- REST API Integration
+- Responsive UI & Performance Optimization
 
 ---
 
-## ⚡ Angular Expertise
-- Components, Modules & Lifecycle  
-- Routing & Lazy Loading  
-- Services & Dependency Injection  
-- Reactive & Template-Driven Forms  
-- REST API Integration  
+## 🤖 Machine Learning Skills
+- Python for ML & data analysis
+- NumPy, Pandas, Matplotlib
+- Scikit-learn (Regression & Classification)
+- Data preprocessing & feature engineering
+- Model evaluation & optimization
+- ML model integration with web applications *(in progress)*
 
 ---
 
@@ -38,18 +49,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Featured+Projects;Angular+Applications;Real-World+Work" />
-</p>
-
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🌐 Angular Projects
-- **Prath-Tech Website** — Angular  
-- **STL Website** — Angular  
-- **CMS (Content Management System)** — Angular  
-
-📸 Screenshots available below 👇
+- **Prath-Tech Website** — Corporate Angular website
+- **STL Website** — Responsive Angular-based business site
+- **CMS (Content Management System)** — Modular Angular CMS with reusable components
 
 | Project | Preview |
 |-------|--------|
@@ -59,37 +64,24 @@
 
 ---
 
-### 🧩 Full-Stack & Backend
-- **SMS – Society Management Service** *(TypeScript)*  
-- **Backend_Project** *(JavaScript – REST APIs)*  
-
----
-
-### 🐍 Other Work
-- **Python-Learning** *(Python)*  
-- **Prath-Tech WordPress** *(WordPress, PHP)*  
+### 🧠 Machine Learning & Backend Projects
+- **Python Learning & ML Experiments**
+  - Data analysis & visualization
+  - ML algorithms implementation
+- **SMS – Society Management Service**
+  - TypeScript | Backend APIs | Business Logic
+- **Backend Project**
+  - JavaScript | REST API Development
 
 ---
 
 ## 📊 GitHub Activity
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Soumyajeet2002&show_icons=true&count_private=true&theme=radical" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Soumyajeet2002&show_icons=true&count_private=true&include_all_commits=true&theme=radical" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Soumyajeet2002&show_icons=true&theme=radical" /> -->
-  <!-- <img src="https://metrics.lecoq.io/Soumyajeet2002?template=classic&base=commits&base.indepth=true&config.timezone=Asia/Kolkata" /> -->   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyajeet2002&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyajeet2002&layout=compact&theme=radical" />
-
-
-
-
 </p>
 
-
-
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Soumyajeet2002&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyajeet2002&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -101,18 +93,20 @@
 
 ---
 
-## 🎯 2025 Focus
-- Advanced Angular projects  
-- Backend API mastery  
-- Open-source contributions  
+## 🎯 2026 Career Goals
+- 🤖 Become an **industry-ready Machine Learning Developer**
+- 🅰️ Build **AI-powered Front-End applications**
+- 🔗 Deploy ML models & integrate with web apps
+- 🌍 Contribute to **open-source ML & Web projects**
+- 📈 Strengthen ML fundamentals, DSA & system design
 
 ---
 
-## 📫 Connect
-- 💼 LinkedIn  
-- 🌐 Portfolio  
-- ✉️ Email  
+## 📫 Connect With Me
+- 💼 **LinkedIn:** https://www.linkedin.com/
+- 🌐 **Portfolio:** https://your-portfolio-link.com
+- ✉️ **Email:** your-email@example.com
 
 <p align="center">
-  🚀 Build • Learn • Improve • Repeat
+  🚀 <strong>Build • Learn • Apply • Evolve</strong>
 </p>
